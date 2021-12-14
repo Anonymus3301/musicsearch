@@ -1,0 +1,19 @@
+.SearchBox {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  input {
+    outline: none;
+    font-size: large;
+    padding: 10px;
+    border: none;
+    background-color: lightcyan;
+  }
+
+  button {
+    margin: 10px;
+    background-color: rgb(39, 212, 39);
+  }
+}
